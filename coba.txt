@@ -1,0 +1,6 @@
+Materi:
+dasar c
+kondisi
+loop
+fungsi
+array
