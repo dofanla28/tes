@@ -4,3 +4,5 @@ kondisi
 loop
 fungsi
 array
+struct
+pointer
